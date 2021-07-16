@@ -2,7 +2,7 @@
 layout: post
 title: "Secure your Smartphone"
 ---
-<span style="font-size:0.5em, line-height:50%"><i>Disclaimer: This blog is intended to be of help for the average person to improve the security of their data and to raise awareness of information security and how to reduce the amount of personal data collected about people. I am not an expert in computer security; if you are working in a situation where information security is critical or required, I strongly suggest you look elsewhere.</i></span>
+<span style="font-size:0.25em, line-height:25%"><i>Disclaimer: This blog is intended to be of help for the average person to improve the security of their data and to raise awareness of information security and how to reduce the amount of personal data collected about people. I am not an expert in computer security; if you are working in a situation where information security is critical or required, I strongly suggest you look elsewhere.</i></span>
 # Securing your Android phone
 _In today's modern world, a smartphone is a key to access a whole range of different aspects of the internet and the world around us, but should we trust in the safety of our data that is stored on a smartphone?_
 
