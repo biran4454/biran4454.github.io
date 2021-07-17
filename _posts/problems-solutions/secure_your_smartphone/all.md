@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Secure your Smartphone"
+---
+# Securing your Android phone
+_In today's modern world, a smartphone is a key to access a whole range of different aspects of the internet and the world around us, but should we trust in the safety of our data that is stored on a smartphone?_
+
+There are many ways in which devices such as smartphones and tablets can be unsafe or leak information about who or where we are, or reveal when or how we are using applications. However there are also many ways in which we can secure ourselves from these issues.
+<br /><span style="font-size:70%;"><i>Disclaimer: This blog is intended to be of help for the average person to improve the security of their data and to raise awareness of information security and how to reduce the amount of personal data collected about people. I am not an expert in computer security; if you are working in a situation where information security is critical or required, I strongly suggest you look elsewhere...</i></span>
+## Problems and Solutions
+Here are some of the problems associated with smartphones. Since there are quite a few, I will not spend too long looking at each one.
+### Operating System
+{{ 2021-07-17-1-operating-system-md.excerpt }}
+### Malware
+{{ "Securing your Smartphone: 2 - Malware Reduction".excerpt }}
+
+### Tracking
+
+### Social Media
+
+### Internet Access
+
+### Internet Data
+## Summary
+Ending
+
+
