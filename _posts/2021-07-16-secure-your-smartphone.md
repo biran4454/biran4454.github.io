@@ -32,7 +32,8 @@ However Lineage is only accessable if the phone is rooted, which may reduce secu
 **Suggested alternative services:**
 + Twitter   - Mastodon
 + WhatsApp  - Signal
-+ Discord   - Telegram<br />
++ Discord   - Telegram
++ Gmail     - ProtonMail
 (This list will be added to later on)
 
 ### Internet Access
