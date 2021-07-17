@@ -28,12 +28,16 @@ However Lineage is only accessable if the phone is rooted, which may reduce secu
 **Solution:** There are two solutions to this: alternative clients and alternative services. Alternative clients get data from the services - such as YouTube or Instagram - and then allow you to interact with it as though you were using the original application. Alternative services are similar to the original service - such as Twitter - but have their own collection of users and data.<br />
 **Suggested alternative clients:**
 + Instagram - Barinsta
-+ YouTube   - NewPipe
++ YouTube   - NewPipe<br />
 **Suggested alternative services:**
 + Twitter   - Mastodon
 + WhatsApp  - Signal
 + Discord   - Telegram
-+ Gmail     - ProtonMail
++ GMail     - ProtonMail
++ GDrive    - CryptPad Drive
++ GCalender - Proton Calender
++ GDocs     - CryptPad
++ GSheets   - CryptPad<br />
 (This list will be added to later on)
 
 ### Internet Access

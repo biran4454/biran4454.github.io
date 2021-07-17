@@ -1,11 +1,11 @@
 navbar_entries:
-  - title: about
+  - title: About
     url: about
 
-  - title: blog
+  - title: Blog
     url: blog
 
-  - title: website
+  - title: Website
     url: https://biran4454.bubbleapps.io
 
 project_entries:
@@ -54,14 +54,10 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
-
-  - title: twitter
-    url: https://twitter.com/abhinav
-
-  - title: github
-    url: https://github.com/abhinavs
+  - title: Email
+    url: mailto:biran4454@protonmail.com
+  - title: Github
+    url: https://github.com/biran4454
 
   - title: feed
     url: feed.xml
