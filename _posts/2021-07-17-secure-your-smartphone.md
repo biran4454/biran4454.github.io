@@ -12,7 +12,7 @@ There are many ways in which devices such as smartphones and tablets can be unsa
 Here are some of the problems associated with smartphones. Since there are quite a few, I will not spend too long looking at each one.
 ### Operating System
 The setup of the operating system of an android phone is very important in securing data.
-Learn more about it [here][2021-07-17-1-operating-system.md]!
+Learn more about it [here][{% post_url 2021-07-17-1-operating-system %}]!
 ### Malware
 
 ### Tracking
